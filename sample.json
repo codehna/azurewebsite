@@ -1,15 +1,9 @@
 {
-	"menu": {
-  		"id": "file",
-  		"value": "File",
-  		"popup": {
-    		"menuitem": [{
-      			"value": "New", "onclick": "CreateNewDoc()"
-      		},{
-      			"value": "Open", "onclick": "OpenDoc()"
-      		},{
-      			"value": "Close", "onclick": "CloseDoc()"
-      		}]
-  		}
-  	}
+    "firstName": "test",
+    "email": "test@lewisu.edu",
+    "phoneNumber": "",
+    "city": "High Tree",
+    "state": "PL",
+    "zip": "62724",
+    "favoriteHobby": "Baseball"
 }
